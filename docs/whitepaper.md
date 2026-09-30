@@ -47,3 +47,13 @@ license: "CC BY 4.0"
 падения пропускной способности с ростом числа хопов.
 
 ## 3. Трёхуровневая топология
+
+[Rooftop: FSO Laser] <===============> [Rooftop: FSO Laser]
+|| ||
+(Street-Level Access Point) (Street-Level Access Point)
+|| ||
+[Taxi-Car (VANET)] ........ [Delivery-Car] ........ [Parked Vehicle]
+|| ||
+(Pedestrian Smartphone) (Apartment Smartphone)
+
+
