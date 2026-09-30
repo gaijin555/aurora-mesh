@@ -42,3 +42,26 @@
 ---
 
 ## Структура репозитория
+
+aurora-mesh/
+├─ README.md
+├─ LICENSE # MIT — для кода
+├─ LICENSE-CC-BY-4.0 # CC BY 4.0 — для документации
+├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
+├─ SECURITY.md
+├─ docs/
+│ ├─ whitepaper.md # основной white paper
+│ ├─ architecture.md # детали топологии
+│ ├─ tokenomics.md # DePIN + TON + Lightning
+│ └─ legal-disclaimer.md # ВАЖНО прочитать до всего
+├─ spec/
+│ ├─ routing.md
+│ ├─ codec.md
+│ └─ security.md
+├─ diagrams/
+│ └─ topology.mmd # Mermaid-схема
+├─ prototypes/
+└─ .github/
+├─ ISSUE_TEMPLATE/
+└─ workflows/
